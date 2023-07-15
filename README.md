@@ -17,7 +17,7 @@ For this bot to run properly, you'll need 5 things:
 
 ### Obtaining Discord User Token
 1. You can follow this guide: https://linuxhint.com/get-discord-token/
-2. Put your Discord User Token in
+2. Put your Discord User Token nside the script to "userToken" field inside quotation marks
 
 ### Obtaining Discord Bot Token | Edited for specific purpose from [this source](https://discordpy.readthedocs.io/en/stable/discord.html)
 1. Make sure you’re logged on to the [Discord website](https://discord.com/)
